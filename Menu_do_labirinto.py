@@ -1,7 +1,7 @@
 import pygame
 pygame.init
 
-janela     = pygame.display.set_mode ((500,550))                             #Tamanho da janela
+janela = pygame.display.set_mode ((500,550))                                 #Tamanho da janela
 fundo = pygame.image.load('menu_labirintoplano_de_fundo1.jpeg')              #Definir o plano de fundo
 pygame.display.set_caption('')                                               #Nome da janela
 
